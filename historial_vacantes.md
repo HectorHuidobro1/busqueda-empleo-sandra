@@ -10,3 +10,5 @@
 | 2026-08-07 | Grupo Limonada | Vendedora Part Time | https://cl.trabajo.org/oferta-3965-d8b31f367f4734329ca0b537fe78825a | No verificable |
 | 2026-08-07 | Forus S.A. (Hush Puppies) | Vendedor/a | https://login.airavirtual.com/postula/Xr3ukJyLYUZAalnIUS7A | No verificable |
 | 2026-08-07 | Varias (listado Computrabajo) | Auxiliar de Aseo | https://cl.computrabajo.com/trabajo-de-auxiliar-de-aseo-en-antofagasta-en-calama | No verificable |
+| 2026-08-08 | Promet Servicios SPA | Conserje Hotelería (Turno noche 8x6) | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-conserje-hoteleria-turno-noche-8x6-calama-en-calama-65f74e8a61d72a9261373e686dcf3405 | No verificable |
+| 2026-08-08 | Promet Servicios SPA | Conserje Hotelería Hotel Modular Calama | https://cl.trabajo.org/oferta-3965-2b50dfd87bf45a079ebf65c32f698bad | No verificable |
