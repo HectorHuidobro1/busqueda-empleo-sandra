@@ -15,3 +15,7 @@
 | 2026-08-10 | Grupo Limonada (4KIDS Store) | Vendedora Part Time Calama | https://cl.redte.com/ad/177918/vendedora-part-time-calama | No verificable |
 | 2026-08-10 | MINISO | Promotor de Experiencia Full Time Calama | https://cl.trabajo.org/oferta-4039-2c76ddba7bd475a20701a37f4f3fece9 | No verificable |
 | 2026-08-10 | MINISO | Vendedor Full / Part Time Calama | https://cl.jooble.org/jdp/8694959092971724911 | No verificable |
+| 2026-08-11 | Retail de joyas (sin especificar) | Vendedora de tienda para Joyería | https://www.yapo.cl/empleos-ofertas-de-trabajos/vendedora-de-tienda-para-joyeria-calama/30656996 | No verificable |
+| 2026-08-11 | Sin especificar (vía MiGuru) | Vendedora Part Time | https://miguru.ai/offers/skiz7o5m9scpcdx-yvt8z | No verificable |
+| 2026-08-11 | Superzoo | Vendedor Part Time 20 hrs | https://cl.trabajo.org/oferta-2862-22a6aa19df75e344ea4ae525f886dc77 | No verificable |
+| 2026-08-11 | Grupo Limonada | Vendedora Part Time | https://cl.trabajo.org/oferta-2862-4c5d73bd30a726d5a7274d7f34b3218d | No verificable |
