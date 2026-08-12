@@ -15,3 +15,6 @@
 | 2026-08-10 | Grupo Limonada (4KIDS Store) | Vendedora Part Time Calama | https://cl.redte.com/ad/177918/vendedora-part-time-calama | No verificable |
 | 2026-08-10 | MINISO | Promotor de Experiencia Full Time Calama | https://cl.trabajo.org/oferta-4039-2c76ddba7bd475a20701a37f4f3fece9 | No verificable |
 | 2026-08-10 | MINISO | Vendedor Full / Part Time Calama | https://cl.jooble.org/jdp/8694959092971724911 | No verificable |
+| 2026-08-12 | Retail (sin especificar) | Cajero / Operador de tienda Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-cajero-operadore-de-tienda-calama-se-busca-urgente-en-calama-BE437951DE7ED5E161373E686DCF3405 | No verificable |
+| 2026-08-12 | PROMET SERVICIOS SPA | Conserje Hotelería (Turno noche 8x6) Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-conserje-hoteleria-turno-noche-8x6-calama-en-calama-65f74e8a61d72a9261373e686dcf3405 | No verificable |
+| 2026-08-12 | Hotel (sin especificar) | Recepcionista de Hotelería Calama | https://www.computrabajo.cl/ofertas-de-trabajo/oferta-de-trabajo-de-recepcionista-de-hoteleria-calama-en-calama-C4AC3A07E4F6889261373E686DCF3405 | No verificable |
