@@ -23,3 +23,6 @@
 | 2026-08-20 | PROMET SERVICIOS SPA | Conserje Hotel Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-conserje-hotel-en-calama-EADA71F50261E6A461373E686DCF3405 | No verificable |
 | 2026-08-20 | PROMET SERVICIOS SPA | Conserje Hotelería Hotel Modular Calama | https://cl.trabajo.org/oferta-3965-2b50dfd87bf45a079ebf65c32f698bad | No verificable |
 | 2026-08-20 | TREK RENTAL | Auxiliar de Aseo Calama 5x2 | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-aseo-calama-5x2-en-calama-59774826d4ef15ad61373e686dcf3405 | No verificable |
+| 2026-08-21 | Skechers | Vendedor Part Time Mall Plaza Calama | https://careers.skechers.com/latam/es/job/JR102577/Vendedor-Part-Time-Mall-Plaza-Calama-CHL | No verificable |
+| 2026-08-21 | Grupo Expro | Vendedor Calzado Deportivo Part Time 20 hrs Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-vendedor-calzado-deportivo-part-time-20-hrs-calama-en-calama-1ED5A66E3F6F779E61373E686DCF3405 | No verificable |
+| 2026-08-21 | Skechers | Vendedor Full Time Mall Plaza Calama | https://cl.trabajo.org/oferta-4039-4352b2b65a80a1338a54ac1ca2cdea49 | No verificable |
