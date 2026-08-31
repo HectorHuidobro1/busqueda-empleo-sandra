@@ -31,3 +31,5 @@
 | 2026-08-23 | Empresa sin especificar | Auxiliar de Aseo Calama | https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-calama-3811920 | No verificable |
 | 2026-08-23 | Empresa sin especificar | Auxiliar de Aseo Calama | https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3829599 | No verificable |
 | 2026-08-27 | Empresa sin especificar | Auxiliar de Aseo Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-aseo-en-calama-0A23907C10E72DF861373E686DCF3405 | No verificable |
+| 2026-08-31 | H&M | Vendedor/a Mall Plaza Calama | https://bebee.com/cl/jobs/hm-mallplaza-calama-vendedora-hm-calama-antofagasta-region--theirstack-677716161 | No verificable |
+| 2026-08-31 | Empresa sin especificar | Auxiliar de Aseo Part Time 30 hrs Calama | https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-part-time-30-hrs-calama-3854601 | No verificable |
