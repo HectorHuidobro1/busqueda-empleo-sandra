@@ -33,3 +33,8 @@
 | 2026-08-27 | Empresa sin especificar | Auxiliar de Aseo Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-aseo-en-calama-0A23907C10E72DF861373E686DCF3405 | No verificable |
 | 2026-08-31 | H&M | Vendedor/a Mall Plaza Calama | https://bebee.com/cl/jobs/hm-mallplaza-calama-vendedora-hm-calama-antofagasta-region--theirstack-677716161 | No verificable |
 | 2026-08-31 | Empresa sin especificar | Auxiliar de Aseo Part Time 30 hrs Calama | https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-part-time-30-hrs-calama-3854601 | No verificable |
+| 2026-09-01 | Empresa sin especificar | Vendedor Full Time Calama | https://www.trabajando.cl/trabajo-vendedora/trabajo/5970343-vendedor-full-time-calama | No verificable |
+| 2026-09-01 | Joyería (sin especificar) | Vendedora de Tienda para Joyería Calama | https://www.yapo.cl/empleos-ofertas-de-trabajos/vendedora-de-tienda-para-joyeria-calama/30656996 | No verificable |
+| 2026-09-01 | Empresa sin especificar | Vendedora Part Time Calama | https://miguru.ai/offers/skiz7o5m9scpcdx-yvt8z | No verificable |
+| 2026-09-01 | Empresa sin especificar (listado) | Mucama / Camarera de Hotel Calama | https://empleo.mitula.cl/empleo/mucama-hotel-calama | No verificable |
+| 2026-09-01 | Empresa sin especificar (listado) | Auxiliar de Aseo Calama | https://cl.jobeka.com/empleos-auxiliar-de-aseo-calama | No verificable |
