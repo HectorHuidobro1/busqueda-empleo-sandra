@@ -38,3 +38,4 @@
 | 2026-09-01 | Empresa sin especificar | Vendedora Part Time Calama | https://miguru.ai/offers/skiz7o5m9scpcdx-yvt8z | No verificable |
 | 2026-09-01 | Empresa sin especificar (listado) | Mucama / Camarera de Hotel Calama | https://empleo.mitula.cl/empleo/mucama-hotel-calama | No verificable |
 | 2026-09-01 | Empresa sin especificar (listado) | Auxiliar de Aseo Calama | https://cl.jobeka.com/empleos-auxiliar-de-aseo-calama | No verificable |
+| 2026-09-03 | Empresa sin especificar | Cajera/o Part Time Calama | https://miguru.ai/offers/6lyntag_qs1t3qhvnqyod | No verificable |
