@@ -39,3 +39,7 @@
 | 2026-09-01 | Empresa sin especificar (listado) | Mucama / Camarera de Hotel Calama | https://empleo.mitula.cl/empleo/mucama-hotel-calama | No verificable |
 | 2026-09-01 | Empresa sin especificar (listado) | Auxiliar de Aseo Calama | https://cl.jobeka.com/empleos-auxiliar-de-aseo-calama | No verificable |
 | 2026-09-03 | Empresa sin especificar | Cajera/o Part Time Calama | https://miguru.ai/offers/6lyntag_qs1t3qhvnqyod | No verificable |
+| 2026-09-04 | Empresa sin especificar | Cajera Vendedora Servicios de Transporte Calama | https://www.laborum.cl/empleos/cajera-vendedora-servicios-de-transporte-calama-1116484558.html | No verificable |
+| 2026-09-04 | Grupo Norte Chile | Auxiliar de Aseo Full Time Reemplazo Calama | https://cl.jooble.org/rjdp/-4606921130099567954 | No verificable |
+| 2026-09-04 | Empresa sin especificar | Personal de Aseo Calama | https://cl.jooble.org/jdp/-4990444938241456870 | No verificable |
+| 2026-09-04 | Empresa sin especificar (listado) | Auxiliar de Aseo Calama | https://empleo.mitula.cl/empleo/auxiliar-aseo-calama | No verificable |
