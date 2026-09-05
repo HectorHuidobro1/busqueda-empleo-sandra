@@ -43,3 +43,4 @@
 | 2026-09-04 | Grupo Norte Chile | Auxiliar de Aseo Full Time Reemplazo Calama | https://cl.jooble.org/rjdp/-4606921130099567954 | No verificable |
 | 2026-09-04 | Empresa sin especificar | Personal de Aseo Calama | https://cl.jooble.org/jdp/-4990444938241456870 | No verificable |
 | 2026-09-04 | Empresa sin especificar (listado) | Auxiliar de Aseo Calama | https://empleo.mitula.cl/empleo/auxiliar-aseo-calama | No verificable |
+| 2026-09-05 | Empresa sin especificar (listado) | Conserje Turno Noche Calama | https://empleo.mitula.cl/empleo/conserje-turno-noche-calama | No verificable |
