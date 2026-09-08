@@ -44,3 +44,6 @@
 | 2026-09-04 | Empresa sin especificar | Personal de Aseo Calama | https://cl.jooble.org/jdp/-4990444938241456870 | No verificable |
 | 2026-09-04 | Empresa sin especificar (listado) | Auxiliar de Aseo Calama | https://empleo.mitula.cl/empleo/auxiliar-aseo-calama | No verificable |
 | 2026-09-05 | Empresa sin especificar (listado) | Conserje Turno Noche Calama | https://empleo.mitula.cl/empleo/conserje-turno-noche-calama | No verificable |
+| 2026-09-08 | Empresa sin especificar | Auxiliar de Almacén / Vendedora / Cajera Calama | https://www.empleosrodriguez.com/2026/09/auxiliar-de-almacen-vendedora-cajera.html | No verificable |
+| 2026-09-08 | Preunic | Cajera Preunic Calama | https://cl.jooble.org/trabajo-cajera-preunic/Calama | No verificable |
+| 2026-09-08 | Otraco S.A. | Auxiliar de Aseo Calama | https://cl.jobtome.com/auxiliar-aseo-calama-otraco-s-a-empleos | No verificable |
