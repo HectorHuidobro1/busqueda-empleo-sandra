@@ -47,3 +47,5 @@
 | 2026-09-08 | Empresa sin especificar | Auxiliar de Almacén / Vendedora / Cajera Calama | https://www.empleosrodriguez.com/2026/09/auxiliar-de-almacen-vendedora-cajera.html | No verificable |
 | 2026-09-08 | Preunic | Cajera Preunic Calama | https://cl.jooble.org/trabajo-cajera-preunic/Calama | No verificable |
 | 2026-09-08 | Otraco S.A. | Auxiliar de Aseo Calama | https://cl.jobtome.com/auxiliar-aseo-calama-otraco-s-a-empleos | No verificable |
+| 2026-09-09 | Empresa sin especificar | Cajera Serviestado Calama | https://cl.jooble.org/trabajo-cajera-serviestado/Calama | No verificable |
+| 2026-09-09 | Supermercado Jumbo | Cajera Supermercado Jumbo Calama | https://cl.jooble.org/trabajo-cajera-supermercado-jumbo/Calama | No verificable |
