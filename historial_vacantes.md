@@ -49,3 +49,4 @@
 | 2026-09-08 | Otraco S.A. | Auxiliar de Aseo Calama | https://cl.jobtome.com/auxiliar-aseo-calama-otraco-s-a-empleos | No verificable |
 | 2026-09-09 | Empresa sin especificar | Cajera Serviestado Calama | https://cl.jooble.org/trabajo-cajera-serviestado/Calama | No verificable |
 | 2026-09-09 | Supermercado Jumbo | Cajera Supermercado Jumbo Calama | https://cl.jooble.org/trabajo-cajera-supermercado-jumbo/Calama | No verificable |
+| 2026-09-10 | PROMET SERVICIOS SPA | Conserje Hotel Nocturno 8x6 Calama | https://bebee.com/cl/jobs/conserje-hotel-nocturno-8x6-calama-promet-servicios-spa-calam--ss-cl-1uosz02 | No verificable |
