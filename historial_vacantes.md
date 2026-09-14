@@ -51,3 +51,4 @@
 | 2026-09-09 | Supermercado Jumbo | Cajera Supermercado Jumbo Calama | https://cl.jooble.org/trabajo-cajera-supermercado-jumbo/Calama | No verificable |
 | 2026-09-10 | PROMET SERVICIOS SPA | Conserje Hotel Nocturno 8x6 Calama | https://bebee.com/cl/jobs/conserje-hotel-nocturno-8x6-calama-promet-servicios-spa-calam--ss-cl-1uosz02 | No verificable |
 | 2026-09-13 | Maquinaria de Panadería Industria y Comercio Limitada | Vendedora Sala de Ventas/Área Comercial Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-vendedora-sala-de-ventasarea-comercial-en-calama-CF8F8F265AD82AE161373E686DCF3405 | No verificable |
+| 2026-09-14 | Empresa sin especificar | Vendedor/a de Automóvil o Servicios Intangibles Calama | https://cl.jooble.org/jdp/-918498388791678008 | No verificable |
