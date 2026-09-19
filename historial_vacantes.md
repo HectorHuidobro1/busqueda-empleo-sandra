@@ -56,3 +56,6 @@
 | 2026-09-18 | Bubble Gummers | Vendedora Bubble Gummers Calama | https://cl.jooble.org/trabajo-vendedora-bubble-gummers/Calama | No verificable |
 | 2026-09-18 | Empresa sin especificar (listado Jobsora) | Auxiliar de Aseo Calama (listado) | https://cl.jobsora.com/empleos-auxiliar-de-aseo-calama | No verificable |
 | 2026-09-18 | Empresa sin especificar (listado Jobsora) | Operario de Aseo Calama (listado) | https://cl.jobsora.com/empleos-operario-de-aseo-calama | No verificable |
+| 2026-09-19 | Supermercado Líder | Cajera Supermercado Líder Calama | https://cl.jooble.org/trabajo-cajera-supermercado-lider/Calama | No verificable |
+| 2026-09-19 | Empresa sin especificar (listado Jooble) | Aseo Ornato Calama (listado) | https://cl.jooble.org/trabajo-aseo-ornato/Calama | No verificable |
+| 2026-09-19 | Empresa sin especificar (listado Computrabajo) | Cajera Calama (listado) | https://cl.computrabajo.com/trabajo-de-cajera-en-antofagasta-en-calama | No verificable |
