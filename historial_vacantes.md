@@ -60,3 +60,7 @@
 | 2026-09-19 | Empresa sin especificar (listado Jooble) | Aseo Ornato Calama (listado) | https://cl.jooble.org/trabajo-aseo-ornato/Calama | No verificable |
 | 2026-09-19 | Empresa sin especificar (listado Computrabajo) | Cajera Calama (listado) | https://cl.computrabajo.com/trabajo-de-cajera-en-antofagasta-en-calama | No verificable |
 | 2026-09-20 | Empresa sin especificar (listado Computrabajo) | Aseo Industrial Calama (listado) | https://cl.computrabajo.com/trabajo-de-aseo-industrial-en-antofagasta-en-calama | No verificable |
+| 2026-09-21 | Empresa sin especificar (listado Indeed) | Hotel Calama (listado) | https://cl.indeed.com/Empleos-de-Hotel-en-Calama,-Antofagasta | No verificable |
+| 2026-09-21 | Empresa sin especificar (listado Jobeka) | Camarera de Hotel (listado) | https://cl.jobeka.com/empleos-camarera-de-hotel | No verificable |
+| 2026-09-21 | Empresa sin especificar (listado Jooble) | Aseo Industrial Calama (listado) | https://cl.jooble.org/trabajo-aseo-industrial/Calama | No verificable |
+| 2026-09-21 | Empresa sin especificar (listado Jooble) | Aseo Calama (listado) | https://cl.jooble.org/trabajo-aseo/Calama | No verificable |
