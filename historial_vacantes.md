@@ -64,3 +64,5 @@
 | 2026-09-21 | Empresa sin especificar (listado Jobeka) | Camarera de Hotel (listado) | https://cl.jobeka.com/empleos-camarera-de-hotel | No verificable |
 | 2026-09-21 | Empresa sin especificar (listado Jooble) | Aseo Industrial Calama (listado) | https://cl.jooble.org/trabajo-aseo-industrial/Calama | No verificable |
 | 2026-09-21 | Empresa sin especificar (listado Jooble) | Aseo Calama (listado) | https://cl.jooble.org/trabajo-aseo/Calama | No verificable |
+| 2026-09-22 | Empresa sin especificar (Chiletrabajos) | Vendedor-Promotor Retail Part-Time Calama | https://www.chiletrabajos.cl/trabajo/3484674 | No verificable |
+| 2026-09-22 | Empresa sin especificar (Chiletrabajos) | Vendedor-Promotor Retail Part-Time Calama 20 horas | https://www.chiletrabajos.cl/trabajo/vendedor-promotor-retail-part-time-calama-20-horas-3427718 | No verificable |
