@@ -66,3 +66,6 @@
 | 2026-09-21 | Empresa sin especificar (listado Jooble) | Aseo Calama (listado) | https://cl.jooble.org/trabajo-aseo/Calama | No verificable |
 | 2026-09-22 | Empresa sin especificar (Chiletrabajos) | Vendedor-Promotor Retail Part-Time Calama | https://www.chiletrabajos.cl/trabajo/3484674 | No verificable |
 | 2026-09-22 | Empresa sin especificar (Chiletrabajos) | Vendedor-Promotor Retail Part-Time Calama 20 horas | https://www.chiletrabajos.cl/trabajo/vendedor-promotor-retail-part-time-calama-20-horas-3427718 | No verificable |
+| 2026-09-23 | Grupo Limonada | Vendedora Part Time Calama | https://cl.trabajo.org/oferta-3829-d8b31f367f4734329ca0b537fe78825a | No verificable |
+| 2026-09-23 | Empresa sin especificar (listado Indeed) | Aseo Calama (listado) | https://cl.indeed.com/Empleos-de-Aseo-en-Calama,-Antofagasta | No verificable |
+| 2026-09-23 | Empresa sin especificar (listado Jooble) | Cajera Calama (listado) | https://cl.jooble.org/trabajo-cajera/Calama | No verificable |
