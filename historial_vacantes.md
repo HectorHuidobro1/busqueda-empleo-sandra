@@ -69,3 +69,6 @@
 | 2026-09-23 | Grupo Limonada | Vendedora Part Time Calama | https://cl.trabajo.org/oferta-3829-d8b31f367f4734329ca0b537fe78825a | No verificable |
 | 2026-09-23 | Empresa sin especificar (listado Indeed) | Aseo Calama (listado) | https://cl.indeed.com/Empleos-de-Aseo-en-Calama,-Antofagasta | No verificable |
 | 2026-09-23 | Empresa sin especificar (listado Jooble) | Cajera Calama (listado) | https://cl.jooble.org/trabajo-cajera/Calama | No verificable |
+| 2026-09-24 | Aramark | Auxiliar de Aseo Aramark Calama | https://cl.jooble.org/trabajo-aramark-aseo/Calama | No verificable |
+| 2026-09-24 | Empresa sin especificar (Casinos) | Auxiliar de Aseo Casinos Calama | https://cl.jooble.org/trabajo-auxiliar-aseo-casinos/Calama | No verificable |
+| 2026-09-24 | Empresa sin especificar | Aseo Industrial Minera Calama | https://cl.jooble.org/trabajo-aseo-industrial-minera/Calama | No verificable |
