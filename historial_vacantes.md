@@ -72,3 +72,7 @@
 | 2026-09-24 | Aramark | Auxiliar de Aseo Aramark Calama | https://cl.jooble.org/trabajo-aramark-aseo/Calama | No verificable |
 | 2026-09-24 | Empresa sin especificar (Casinos) | Auxiliar de Aseo Casinos Calama | https://cl.jooble.org/trabajo-auxiliar-aseo-casinos/Calama | No verificable |
 | 2026-09-24 | Empresa sin especificar | Aseo Industrial Minera Calama | https://cl.jooble.org/trabajo-aseo-industrial-minera/Calama | No verificable |
+| 2026-09-26 | Empresa sin especificar (listado LinkedIn) | Auxiliar de Aseo Calama (listado) | https://cl.linkedin.com/jobs/auxiliar-de-aseo-empleos-calama?trk=public_jobs_search-for-more-jobs-link | No verificable |
+| 2026-09-26 | Empresa sin especificar (listado Laborum) | Empleos Región II Calama (listado) | https://www.laborum.cl/en-region-ii/calama/empleos.html | No verificable |
+| 2026-09-26 | Empresa sin especificar (listado Computrabajo) | Empleos Calama (listado general) | https://cl.computrabajo.com/empleos-en-antofagasta-en-calama | No verificable |
+| 2026-09-26 | Empresa sin especificar (listado Chiletrabajos) | Empleos Calama (listado ciudad) | https://www.chiletrabajos.cl/ciudad/calama.html | No verificable |
