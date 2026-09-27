@@ -76,3 +76,7 @@
 | 2026-09-26 | Empresa sin especificar (listado Laborum) | Empleos Región II Calama (listado) | https://www.laborum.cl/en-region-ii/calama/empleos.html | No verificable |
 | 2026-09-26 | Empresa sin especificar (listado Computrabajo) | Empleos Calama (listado general) | https://cl.computrabajo.com/empleos-en-antofagasta-en-calama | No verificable |
 | 2026-09-26 | Empresa sin especificar (listado Chiletrabajos) | Empleos Calama (listado ciudad) | https://www.chiletrabajos.cl/ciudad/calama.html | No verificable |
+| 2026-09-27 | Empresa sin especificar | Vendedora Part Time Calama (Jobrapido) | https://cl.jobrapido.com/jobpreview/3571523182902902784 | No verificable |
+| 2026-09-27 | ISS Chile (listado Jooble) | Auxiliar de Aseo ISS Calama (listado) | https://cl.jooble.org/trabajo-iss-aseo/Calama | No verificable |
+| 2026-09-27 | Empresa sin especificar (listado Computrabajo) | Cajero Calama (listado) | https://cl.computrabajo.com/trabajo-de-cajero-calama | No verificable |
+| 2026-09-27 | Empresa sin especificar (listado Computrabajo) | Empleos Calama sin experiencia (listado) | https://cl.computrabajo.com/empleos-en-antofagasta-en-calama-sin-experiencia | No verificable |
