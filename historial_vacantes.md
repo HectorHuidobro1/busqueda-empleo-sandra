@@ -80,3 +80,5 @@
 | 2026-09-27 | ISS Chile (listado Jooble) | Auxiliar de Aseo ISS Calama (listado) | https://cl.jooble.org/trabajo-iss-aseo/Calama | No verificable |
 | 2026-09-27 | Empresa sin especificar (listado Computrabajo) | Cajero Calama (listado) | https://cl.computrabajo.com/trabajo-de-cajero-calama | No verificable |
 | 2026-09-27 | Empresa sin especificar (listado Computrabajo) | Empleos Calama sin experiencia (listado) | https://cl.computrabajo.com/empleos-en-antofagasta-en-calama-sin-experiencia | No verificable |
+| 2026-09-28 | Mascotas Latinas / SuperZoo (posible) | Vendedor Part Time Fin de Semana Calama | https://www.chiletrabajos.cl/trabajo/3811944 | No verificable |
+| 2026-09-28 | Grupo Limonada | Vendedora Part Time Calama | https://cl.trabajo.org/oferta-2862-4c5d73bd30a726d5a7274d7f34b3218d | No verificable |
