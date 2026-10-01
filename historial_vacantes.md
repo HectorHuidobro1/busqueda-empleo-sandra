@@ -82,3 +82,6 @@
 | 2026-09-27 | Empresa sin especificar (listado Computrabajo) | Empleos Calama sin experiencia (listado) | https://cl.computrabajo.com/empleos-en-antofagasta-en-calama-sin-experiencia | No verificable |
 | 2026-09-30 | Empresa sin especificar | Auxiliar de Aseo Calama (Talent.com) | https://cl.talent.com/jobsense/ajax/trk.php?pos=6&title=auxiliar+de+aseo&country=cl&k=Promotor&l=calama&searchType=jobsense-search&permanent_redirect=1 | No verificable |
 | 2026-09-30 | Empresa sin especificar (listado Indeed) | Empleos Calama (listado general) | https://cl.indeed.com/l-calama,-antofagasta-empleos.html | No verificable |
+| 2026-10-01 | Transvip | Cajera/Vendedora Transvip (portal propio de ofertas, posible vacante Aeropuerto Calama) | https://transvip.sherlockhr.com/ofertas/ | No verificable |
+| 2026-10-01 | Empresa sin especificar (listado Trabajo.org) | Cajero Calama (listado) | https://cl.trabajo.org/empleo-cajero/Calama | No verificable |
+| 2026-10-01 | Empresa sin especificar (listado Jooble) | Cajera Vendedora (listado nacional) | https://cl.jooble.org/trabajo-cajera-vendedora | No verificable |
