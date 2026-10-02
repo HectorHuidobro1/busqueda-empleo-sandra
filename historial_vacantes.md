@@ -85,3 +85,4 @@
 | 2026-10-01 | Transvip | Cajera/Vendedora Transvip (portal propio de ofertas, posible vacante Aeropuerto Calama) | https://transvip.sherlockhr.com/ofertas/ | No verificable |
 | 2026-10-01 | Empresa sin especificar (listado Trabajo.org) | Cajero Calama (listado) | https://cl.trabajo.org/empleo-cajero/Calama | No verificable |
 | 2026-10-01 | Empresa sin especificar (listado Jooble) | Cajera Vendedora (listado nacional) | https://cl.jooble.org/trabajo-cajera-vendedora | No verificable |
+| 2026-10-02 | Empresa sin especificar (listado Computrabajo) | Conserje Calama (listado) | https://cl.computrabajo.com/trabajo-de-conserje-en-antofagasta-en-calama | No verificable |
