@@ -86,3 +86,6 @@
 | 2026-10-01 | Empresa sin especificar (listado Trabajo.org) | Cajero Calama (listado) | https://cl.trabajo.org/empleo-cajero/Calama | No verificable |
 | 2026-10-01 | Empresa sin especificar (listado Jooble) | Cajera Vendedora (listado nacional) | https://cl.jooble.org/trabajo-cajera-vendedora | No verificable |
 | 2026-10-02 | Empresa sin especificar (listado Computrabajo) | Conserje Calama (listado) | https://cl.computrabajo.com/trabajo-de-conserje-en-antofagasta-en-calama | No verificable |
+| 2026-10-03 | Empresa sin especificar (Chiletrabajos) | Auxiliar de Aseo 5x2 Calama | https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-5x2-en-calama-3757469 | No verificable |
+| 2026-10-03 | Empresa sin especificar (Chiletrabajos) | Auxiliar de Aseo Calama | https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3846193 | No verificable |
+| 2026-10-03 | Empresa sin especificar (listado Jooble) | Camarera Noche Calama (listado) | https://cl.jooble.org/trabajo-camarera-noche/Calama | No verificable |
