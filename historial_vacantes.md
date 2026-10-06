@@ -94,3 +94,5 @@
 | 2026-10-04 | Empresa sin especificar (listado Jooble) | Trabajos para Mujeres Calama (listado) | https://cl.jooble.org/trabajo-trabajos-en-para-mujeres/Calama | No verificable |
 | 2026-10-04 | Empresa sin especificar (listado Computrabajo) | Vendedor Calama (listado) | https://cl.computrabajo.com/trabajo-de-vendedor-en-antofagasta-en-calama | No verificable |
 | 2026-10-04 | Empresa sin especificar (listado Jobsora) | Empleos Calama (listado) | https://cl.jobsora.com/empleos-calama | No verificable |
+| 2026-10-06 | Empresa sin especificar (listado Jooble) | Recepcionista Hotel Calama (listado) | https://cl.jooble.org/trabajo-recepcionista-hotel/Calama | No verificable |
+| 2026-10-06 | Empresa sin especificar (listado Indeed) | Empleos Calama (listado general) | https://cl.indeed.com/q-trabajo-calama-l-calama,-antofagasta-empleos.html | No verificable |
