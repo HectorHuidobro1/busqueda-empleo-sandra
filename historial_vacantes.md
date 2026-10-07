@@ -96,3 +96,8 @@
 | 2026-10-04 | Empresa sin especificar (listado Jobsora) | Empleos Calama (listado) | https://cl.jobsora.com/empleos-calama | No verificable |
 | 2026-10-06 | Empresa sin especificar (listado Jooble) | Recepcionista Hotel Calama (listado) | https://cl.jooble.org/trabajo-recepcionista-hotel/Calama | No verificable |
 | 2026-10-06 | Empresa sin especificar (listado Indeed) | Empleos Calama (listado general) | https://cl.indeed.com/q-trabajo-calama-l-calama,-antofagasta-empleos.html | No verificable |
+| 2026-10-07 | Empresa sin especificar (retail, Mall Plaza Calama) | Vendedora Part Time Mall Plaza Calama | https://www.chiletrabajos.cl/trabajo/vendedora-part-time-mall-plaza-calama-3888059 | No verificable |
+| 2026-10-07 | Hotel Agua del Desierto | Camarera-Auxiliar de Aseo Calama | https://www.chiletrabajos.cl/trabajo/3874659 | No verificable |
+| 2026-10-07 | Joyería/Relojería (sin especificar) | Vendedor/a Full Time Mall Calama | https://www.chiletrabajos.cl/trabajo/venededor-a-full-time-mall-calama-3865161 | No verificable |
+| 2026-10-07 | Empresa sin especificar (canal supermercado) | Vendedor Canal Supermercado Calama | https://www.chiletrabajos.cl/trabajo/vendedor-canal-supermercado-calama-3600593 | No verificable |
+| 2026-10-07 | Retail accesorios smartphone (sin especificar) | Vendedor/a Full Time Mall Plaza Calama | https://www.chiletrabajos.cl/trabajo/vendedor-a-full-time-mall-plaza-calama-3463964 | No verificable |
