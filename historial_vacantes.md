@@ -104,3 +104,5 @@
 | 2026-10-08 | Retail accesorios smartphone (sin especificar) | Vendedor/a Part Time Mall Plaza Calama | https://www.chiletrabajos.cl/trabajo/3172623 | No verificable |
 | 2026-10-08 | Retail accesorios smartphone (sin especificar) | Vendedor/a Volante Full Time Calama | https://www.chiletrabajos.cl/trabajo/vendedor-a-volante-full-time-ii-region-calama-3305721 | No verificable |
 | 2026-10-08 | Empresa sin especificar | Auxiliar de Servicios Residencia Calama 8x6 | https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-residencia-en-calama-8x6-trabajo-en-sucursal-3784383 | No verificable |
+| 2026-10-09 | Empresa sin especificar (Mall Plaza Calama) | Vendedor(a) Full Time, Supermercado Líder Mall Plaza Calama | https://www.chiletrabajos.cl/trabajo/2878006 | No verificable |
+| 2026-10-09 | Empresa sin especificar (Mall Plaza Calama) | Auxiliar de Aseo Mall Plaza Calama | https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-aseo-mall-plaza-en-calama-EBFF2DB2609D617C61373E686DCF3405 | No verificable |
